@@ -1,0 +1,23 @@
+co/com/sofka/api/task/PostRequest.java
+ co.com.sofka.api.task.PostRequest
+co/com/sofka/api/model/data/UserData.java
+ co.com.sofka.api.model.data.UserData
+co/com/sofka/api/model/user/NewUser.java
+ co.com.sofka.api.model.user.NewUser
+ co.com.sofka.api.model.user.NewUser$NewUserBuilder
+co/com/sofka/api/task/GetRequest.java
+ co.com.sofka.api.task.GetRequest
+co/com/sofka/api/model/user/Verticale.java
+ co.com.sofka.api.model.user.Verticale
+ co.com.sofka.api.model.user.Verticale$VerticaleBuilder
+co/com/sofka/api/model/user/User.java
+ co.com.sofka.api.model.user.User
+ co.com.sofka.api.model.user.User$UserBuilder
+co/com/sofka/api/model/user/UpdateUser.java
+ co.com.sofka.api.model.user.UpdateUser
+ co.com.sofka.api.model.user.UpdateUser$UpdateUserBuilder
+co/com/sofka/api/task/PutRequest.java
+ co.com.sofka.api.task.PutRequest
+co/com/sofka/api/model/user/Pegunta.java
+ co.com.sofka.api.model.user.Pegunta
+ co.com.sofka.api.model.user.Pegunta$PeguntaBuilder

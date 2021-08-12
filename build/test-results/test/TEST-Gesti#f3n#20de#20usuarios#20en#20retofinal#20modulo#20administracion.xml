@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Gestión de usuarios en retofinal modulo administracion" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-08-12T01:39:23" hostname="YAMMOK" time="30.908">
+  <properties/>
+  <testcase name="Creacion exitosa de usuario nuevo" classname="Gestión de usuarios en retofinal modulo administracion" time="25.038"/>
+  <testcase name="Consulta exitosa de un usuario por id" classname="Gestión de usuarios en retofinal modulo administracion" time="0.989"/>
+  <testcase name="Se actualizará un usuario existente" classname="Gestión de usuarios en retofinal modulo administracion" time="0.859"/>
+  <testcase name="Consulta exitosa de todas las preguntas frecuentes" classname="Gestión de usuarios en retofinal modulo administracion" time="2.634"/>
+  <testcase name="Consulta exitosa de todas las verticales" classname="Gestión de usuarios en retofinal modulo administracion" time="0.7"/>
+  <testcase name="Consulta exitosa de una vertical por id" classname="Gestión de usuarios en retofinal modulo administracion" time="0.687"/>
+  <system-out><![CDATA[{"id":"61147be105f90c7b1202aeab","name":"Sta. Enrique Aponte Polanco","email":"yammok@gmail.com","urlPhoto":"urlfoto","phone":"694 237 325","firstTime":false,"verticalId":"QA","rol":"Super Usuario"}
+{"firstTime":true,"verticalId":null}
+[{"id":"6113516023b4da30102139d6","pregunta":"¿ Que es un OKR?","respuesta":"OkR son las siglas en ingles de Objectic and key results,Podemos definirlo como un método de trabajo interno que, mediante la fijación de objetivos y de sus correspondientes resultados clave, permite organizar el trabajo de la empresa, definir grupos de trabajo y realizar un seguimiento del progreso de cada empleado."},{"id":"611351dd23b4da30102139d7","pregunta":"¿ Cuáles son los beneficios de los OKR?","respuesta":"Imponer un sentimiento de compromiso para la consecución de objetivos.\nInformar a todos los miembros de lo que es importante.\nPermitir una comunicación más precisa.\nEstablecer indicadores que midan el progreso.\nEnfocar el esfuerzo y asegurar la alineación del equipo."}]
+[{"id":"6113506023b4da30102139d4","verticalname":"QA"},{"id":"611350af23b4da30102139d5","verticalname":"DEV"}]
+{"id":"6113506023b4da30102139d4","verticalname":"QA"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
